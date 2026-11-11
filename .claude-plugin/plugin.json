@@ -1,0 +1,8 @@
+{
+  "name": "chatgpt-business-kit",
+  "description": "Claim, verify and grow your business inside ChatGPT (Business Hub, Insights, Business Agents): profile writer, crawler check, agent builder, feed check, Insights tracker.",
+  "version": "1.0.0",
+  "author": { "name": "Hardik Pahwa" },
+  "homepage": "https://github.com/hardikpahwaa/chatgpt-business-kit",
+  "license": "MIT"
+}
